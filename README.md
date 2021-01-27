@@ -1,5 +1,5 @@
 
-## (shiny) Map of US Presidential Election results and economic data
+## (shiny) Interactive map of US Presidential Election results and economic data
 
 https://andreasandersen.shinyapps.io/US_election/
 ![Map Preview](/images/preview.png)
