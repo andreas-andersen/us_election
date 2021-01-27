@@ -1,0 +1,187 @@
+div.outer {
+  	position: fixed;
+  	top: 40px;
+ 	left: 0;
+ 	right: 0;
+ 	bottom: 0;
+	overflow: hidden;
+ 	padding: 0;
+}
+
+.leaflet-tooltip { 
+	width: 350px; 
+	white-space: normal;
+	padding: 5px;
+}
+
+#data_panel {
+	background-color: #FFFFFF;
+	opacity: 80%;
+	padding: 10px 10px 10px 10px;
+	border-radius: 5px;
+	text-align: center;
+}
+
+#subtext_space {
+	font-size: 10px;
+}
+
+#donut_table {
+	width: 100%;
+	white-space: normal;
+}
+
+#democrat_percent_text {
+	font-size: 34px;
+	color: #0B6BA6;
+	letter-spacing: -1px;
+}
+
+#republican_percent_text {
+	font-size: 34px;
+	color: #CD191D;
+	letter-spacing: -1px;
+}
+
+#democrat_percent_float {
+	position: absolute;
+    	top: 255px;
+    	left: 10px;
+    	height: 100px;
+    	width: 180px;
+    	z-index: 99;
+	text-align: left;
+}
+
+#republican_percent_float {
+	position: absolute;
+    	top: 255px;
+    	right: 10px;
+    	height: 100px;
+    	width: 180px;
+    	z-index: 99;
+	text-align: right;
+}
+
+#democrat_candidate_text {
+	width: 50%;
+	font-size: 20px;
+	text-align: left;
+	float: left;
+}
+
+#republican_candidate_text {
+	margin-left: 50%;
+	font-size: 20px;
+	text-align: right;
+}
+
+#popup_table {
+	cellPadding: 3px;
+}
+
+td {
+	padding: 5px;
+}
+
+#county_title {
+	font-size: 40px;
+}
+
+#state_title {
+	font-size: 20px;
+}
+
+#title_panel {
+	background-color: #FFFFFF;
+	opacity: 80%;
+	padding: 10px 10px 10px 10px;
+	border-radius: 5px;
+	text-align: center;
+}
+
+#movable_icon {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	opacity: 50%;
+	top: 7px;
+	right: 17px;
+}
+
+#donut_space {
+	width: 100%;
+}
+
+#democrat_rectangle {
+	height: 15px;
+  	width: 5px;
+	background-color: #0B6BA6;
+}
+
+#republican_rectangle {
+	height: 15px;
+  	width: 5px;
+	background-color: #CD191D;
+}
+
+#democrat_rectangle_state {
+	height: 15px;
+  	width: 5px;
+	background-color: #9FC4DC;
+}
+
+#republican_rectangle_state {
+	height: 15px;
+  	width: 5px;
+	background-color: #EBA4A6;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.center_flex_container {
+	position: fixed;
+  	top: 20px;
+ 	left: 0;
+ 	right: 0;
+ 	bottom: 0;
+	overflow: hidden;
+ 	padding: 0;
+  	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
+
+.center_flex_box {
+	width: 70%;
+	height: 90%;
+	text-align: center;
+}
+
+.plot_title {
+	font-size: 40px;
+}
+
+.plot_description {
+	font-size: 20px;
+}
+
+.datarow {
+	padding: 5px;
+	text-align: left;
+}
+
+#density_selectors_float {
+	position: absolute;
+    	top: 60%;
+    	right: 16%;
+    	height: 5%;
+    	width: 10%;
+    	z-index: 99;
+	text-align: left;
+}

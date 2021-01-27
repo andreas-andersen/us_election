@@ -1,0 +1,12 @@
+name: US_election
+title: US_election
+username:
+account: andreasandersen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3429956
+bundleId: 4130253
+url: https://andreasandersen.shinyapps.io/US_election/
+when: 1611332339.48186
+asMultiple: FALSE
+asStatic: FALSE
