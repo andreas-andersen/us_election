@@ -1,0 +1,9 @@
+.RData
+.Rhistory
+current_data/
+historical_data/
+income_data/
+population_data/
+spatial/
+unemployment_data/
+update_backup.R

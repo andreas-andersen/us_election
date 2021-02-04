@@ -393,6 +393,7 @@ plot_quintile_subplot <- function(x) {
 yaxis_layout <- list(showgrid = FALSE, showticklabels = FALSE, title = "")
 xaxis_layout <- list(showgrid = FALSE, zeroline = FALSE,
                      tickmode = "array", 
+                     tickangle = 90,
                      tickvals = list(2000, 2004, 2008, 2012, 2016, 2020),
                      ticktext = list("2000", "2004", "2008", "2012", "2016", "2020*"),
                      tickfont = list(size = 12), title = "")

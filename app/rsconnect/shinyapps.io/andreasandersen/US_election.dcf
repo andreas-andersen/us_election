@@ -5,8 +5,8 @@ account: andreasandersen
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3429956
-bundleId: 4130253
+bundleId: 4182611
 url: https://andreasandersen.shinyapps.io/US_election/
-when: 1611332339.48186
+when: 1612481871.59706
 asMultiple: FALSE
 asStatic: FALSE
